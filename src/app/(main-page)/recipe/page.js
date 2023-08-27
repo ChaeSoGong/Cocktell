@@ -2,7 +2,7 @@
 import { IoOptionsOutline } from "react-icons/io5";
 import { BiSearchAlt2 } from "react-icons/bi";
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 
 //Develop by 임채윤
 export default function Recipe() {

@@ -102,7 +102,7 @@ function RecipePreview(props) {
         return (
             <SwiperSlide key={recipe.id} className='look_Slide_item'>
                 <Link href={`/recipe/${recipe.id}`}>
-                    <img src={recipe.image} alt={recipe.name} fill="true" sizes='265'></img>
+                    <Image src={recipe.image} alt={recipe.name} fill sizes='265'></Image>
                 </Link>
                 <div className='look_Slide_text'>
                     <Link href={`/recipe/${recipe.id}`}><h3>{recipe.name}</h3></Link>
