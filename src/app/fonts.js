@@ -23,5 +23,5 @@ export const playfair_display = Playfair_Display({
 export const diphylleia = Diphylleia({
     subsets:['latin'],
     weight:'400',
-    display:'swap'
+    display:'auto'
 })

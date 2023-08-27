@@ -50,7 +50,7 @@ function Nav(props) { //Developed by 장소현
     </nav>
   )
 }
-function Footer(props) { //Developed by
+function Footer(props) { //Developed by 장소현
   return (
     <footer className={props.font.className}>
       <div className='footer_container'>
