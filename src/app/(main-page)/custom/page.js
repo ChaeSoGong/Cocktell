@@ -17,7 +17,7 @@ export default async function CustomRecipe() {
   const cocktailData = await customPromise.json();
   return (
       <div className="custom_container">
-        {cocktailData.map((data=>{
+        {cocktailData?.map((data=>{
           return(
             <div className="custom_item" key={data.id}>
 
