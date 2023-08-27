@@ -7,8 +7,10 @@ import { NextResponse } from "next/server";
  * POST로 가져오면 query를 거친 Recipe List를 가져옵니다.
 */
 
-/* export async function GET(request){ //Recipe Data 가져오기
-    console.log('Server : Recipe Data fetch Start...')
+export async function POST(request, response){ //Query한 Recipe List 가져오기
+    console.log('Server : Recipe List fetch Start...');
+    const filterConfig = await request.json();
+    // console.log(filterConfig)
     const options = {
         method: 'POST',
         headers: {
@@ -17,14 +19,9 @@ import { NextResponse } from "next/server";
             'Content-type': 'application/json',
             Authorization: `Bearer ${TOKEN}`,
         },
-        body:JSON.stringify({
-            page_size:12,
-            filter:{
-                "property": "type",
-                "select": { "equals": "Cocktell" }
-            }
-        })
+        body:JSON.stringify(filterConfig),
     }
+    // console.log(options)
     const res = await fetch(`https://api.notion.com/v1/databases/${RECIPE_DATABASE_ID}/query`,options);
     if (!res.ok){
         throw new Error("데이터 가져오기 실패");
@@ -50,12 +47,11 @@ import { NextResponse } from "next/server";
         createdate: cocktail.properties.createdate.created_time
     }));
     return NextResponse.json(cocktailList);
-}; */
+}
 
-
-export async function POST(request, response){ //Query한 Recipe List 가져오기
+export async function serverPOST(request, response){ //Query한 Recipe List 가져오기
     console.log('Server : Recipe List fetch Start...');
-    const filterConfig = await request.json();
+    const filterConfig = await request
     // console.log(filterConfig)
     const options = {
         method: 'POST',

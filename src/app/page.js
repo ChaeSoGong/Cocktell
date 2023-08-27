@@ -2,45 +2,33 @@
 import Home from './(client-component)/home';
 
 export default async function Page() {
-  const recipeData = await fetch("http://localhost:3000/api/recipedata",{
-    method:"POST",
-    headers:{
-      'Content-Type':'application/json'
-    },
-    body:JSON.stringify({
-      page_size:6,
-      sorts:[{"property":"taste","direction":"ascending"}],
-      filter:{"property":"type","select":{"equals":"Cocktell"}}
-    })
-  })
-  const recipeList = await recipeData.json();
-  const customData = await fetch("http://localhost:3000/api/customdata",{
-    method:"POST",
-    headers:{
-      'Content-Type':'application/json'
-    },
-    body:JSON.stringify({
-      page_size:3,
-      filter:{"property":"type","select":{"equals":"Custom"}}
-    })
-  })
-  const customList = await customData.json();
-  const materialData = await fetch("http://localhost:3000/api/materialdata",{
-    method:"POST",
-    headers:{
-      'Content-Type':'application/json'
-    },
-    body:JSON.stringify({
-      page_size:100
-    })
-  })
-  const materialList = await materialData.json();
+  let isFetch = false;
+  let recipeData = null;
+  let customData = null;
+  let materialData = null;
+
+  if (!isFetch){
+    const recipeAPI = await import("./api/recipedata/route.js");
+    const customAPI = await import("./api/customdata/route.js");
+    const materialAPI = await import("./api/materialdata/route.js");
+  
+    const recipePromise = await recipeAPI.serverPOST({page_size:6,filter:{"property":"type","select":{"equals":"Cocktell"}}})
+    const customPromise = await customAPI.serverPOST({page_size:3,filter:{"property":"type","select":{"equals":"Custom"}}})
+    const materialPromise = await materialAPI.serverPOST({});
+  
+    recipeData = await recipePromise.json();
+    customData = await customPromise.json();
+    materialData = await materialPromise.json();
+
+    !isFetch;
+  }
+
   return (
     <div className='home_page'> {/* Home Component : Client Component */}
       <Home data={{
-        recipeData: recipeList,
-        customData: customList,
-        materialData:materialList,
+        recipeData: recipeData,
+        customData: customData,
+        materialData: materialData,
       }} />
       <div className="mt-40 mb-40 border-b border-gray-300"></div>
     </div>
