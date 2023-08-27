@@ -38,12 +38,11 @@ jobs:
           DEPLOY_TARGET: gh-pages
       - run: touch .next/.nojekyll
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.4.0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: gh-pages
-          folder: .next
-          clean : true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out # or the folder with your static assets
 
 
 # # Sample workflow for building and deploying a Next.js site to GitHub Pages
