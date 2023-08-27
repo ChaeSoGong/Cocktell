@@ -44,7 +44,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out # or the folder with your static assets
 
-
 # # Sample workflow for building and deploying a Next.js site to GitHub Pages
 # #
 # # To get started with Next.js see: https://nextjs.org/docs/getting-started
