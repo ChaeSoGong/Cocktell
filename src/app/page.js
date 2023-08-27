@@ -1,5 +1,5 @@
 //Hompage is Server Component
-// import Home from './(client-component)/home';
+import Home from './(client-component)/home';
 
 export default async function Page() {
   const recipeData = await fetch("http://localhost:3000/api/recipedata",{
@@ -37,11 +37,11 @@ export default async function Page() {
   const materialList = await materialData.json();
   return (
     <div className='home_page'> {/* Home Component : Client Component */}
-      {/* <Home data={{
+      <Home data={{
         recipeData: recipeList,
         customData: customList,
         materialData:materialList,
-      }} /> */}
+      }} />
       <div className="mt-40 mb-40 border-b border-gray-300"></div>
     </div>
   );
