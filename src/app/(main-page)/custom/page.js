@@ -25,8 +25,7 @@ export default async function CustomRecipe() {
                 <div className="custom_img">
                   {/* 두번쨰 */}
                     <Link href={`/recipe/${data.id}`}>
-                      <Image src={data.image} alt={data.name} placeholder="blur" blurDataURL={blurURL}
-                      fill={true} sizes="265"></Image>
+                      <img src={data.image} alt={data.name} sizes="265"></img>
                     </Link>
                 </div>
                 <div className="custom_caption"> 

@@ -1,7 +1,7 @@
 import { RECIPE_DATABASE_ID, TOKEN } from "@/config";
 import { NextResponse } from "next/server";
 
-export async function POST(request){
+export async function POST(request, response){
     console.log('Server : All Cocktail Recipe fetching Start...');
     const req = await request.json();
     // console.log(req);

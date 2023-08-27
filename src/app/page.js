@@ -22,7 +22,7 @@ export default async function Page() {
 
     !isFetch;
   }
-
+  console.log(customData, "hi")
   return (
     <div className='home_page'> {/* Home Component : Client Component */}
       <Home data={{

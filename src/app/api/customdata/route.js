@@ -41,7 +41,7 @@ export async function POST(request, response){ //Query한 Custom List 가져오�
     return NextResponse.json(cocktailList);
 }
 
-export async function serverPOST(request, response){ //Query한 Custom List 가져오기
+export async function serverPOST(request){ //Query한 Custom List 가져오기
     console.log('Server : Custom List fetch Start...');
     const filterConfig = await request;
     const options = {
