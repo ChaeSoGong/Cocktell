@@ -97,7 +97,7 @@ function Banner() { //Banner는 수동으로 입력... Banner map함수 쓰면 �
 }
 function RecipePreview(props) {
     SwiperCore.use([Navigation, Pagination, Autoplay]);
-    const content = props.recipeData.map((recipe) => {
+    const content = props.recipeData?.map((recipe) => {
         return (
             <SwiperSlide key={recipe.id} className='look_Slide_item'>
                 <Link href={`/recipe/${recipe.id}`}>
@@ -127,7 +127,7 @@ function RecipePreview(props) {
     </article>)
 }
 function CustomPreview(props) {
-    const content = props.customData.map((item) => (
+    const content = props.customData?.map((item) => (
         <div key={item.id} className='article_custom_item'>
             <img src={item.image} fill="true" lazy_loading="true" sizes='320' alt={item.name}></img>
         </div>
@@ -153,9 +153,9 @@ function MyBagPreview(props) {
         slidesPerView: 5, allowTouchMove: false
     }
     SwiperCore.use([Autoplay]);
-    const mainMaterial = props.materialData.filter((item) => (item.type === 'mainmaterial'))
-    const subMaterial = props.materialData.filter((item) => (item.type === 'submaterial'))
-    const garnishMaterial = props.materialData.filter((item) => (item.type === 'garnish'))
+    const mainMaterial = props.materialData?.filter((item) => (item.type === 'mainmaterial'))
+    const subMaterial = props.materialData?.filter((item) => (item.type === 'submaterial'))
+    const garnishMaterial = props.materialData?.filter((item) => (item.type === 'garnish'))
     return (<article className='home_article'>
         <div className='article_text'>
             <h2>냉장고에 있는 재료로 찾는 칵테일 레시피</h2>
