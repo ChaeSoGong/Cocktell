@@ -52,7 +52,6 @@ export default function Recipe() {
             }
           ]
         })
-
       }
       const dataPromise = await fetch('/api/recipedata', options);
       setCocktailData(await dataPromise.json());

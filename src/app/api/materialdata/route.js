@@ -1,7 +1,7 @@
 import { MATERIAL_DATABASE_ID, TOKEN } from "@/config";
 import { NextResponse } from "next/server";
 
-export async function POST(request){ //Query한 Custom List 가져오기
+export async function POST(request, response){ //Query한 Custom List 가져오기
     console.log('Server : Material List fetch Start...');
     const req = await request.json();
     // console.log(req);
