@@ -101,7 +101,7 @@ function RecipePreview(props) {
         return (
             <SwiperSlide key={recipe.id} className='look_Slide_item'>
                 <Link href={`/recipe/${recipe.id}`}>
-                    <Image src={recipe.image} alt={recipe.name} fill sizes='265'></Image>
+                    <img src={recipe.image} alt={recipe.name} fill='true' lazy_loading="true" sizes='265'></img>
                 </Link>
                 <div className='look_Slide_text'>
                     <Link href={`/recipe/${recipe.id}`}><h3>{recipe.name}</h3></Link>
@@ -129,7 +129,7 @@ function RecipePreview(props) {
 function CustomPreview(props) {
     const content = props.customData.map((item) => (
         <div key={item.id} className='article_custom_item'>
-            <Image src={item.image} fill sizes='320' alt={item.name}></Image>
+            <img src={item.image} fill="true" lazy_loading="true" sizes='320' alt={item.name}></img>
         </div>
     ))
     SwiperCore.use([Navigation]);

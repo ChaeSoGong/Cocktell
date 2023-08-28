@@ -22,7 +22,6 @@ export default async function Page() {
 
     !isFetch;
   }
-  console.log(materialData)
   return (
     <div className='home_page'> {/* Home Component : Client Component */}
       <Home data={{
