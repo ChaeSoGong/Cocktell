@@ -1,11 +1,22 @@
-## 팀 프로젝트 : 칵텔 (CockTell)
-- 명지대학교 ICT융합대학에서 열리는 SW경진대회에 참여하기 위한 팀 프로젝트
-- 프로젝트 기간 : 2023.07.01 ~ 2023.08.24
-- 멤버 
-    - 개발자 : 임채윤, 장소현
-    - 디자인 도움 : 김동환
+# 칵테일을 말하다 - Cocktell
+## 프로젝트 참여자
+- *FrontEnd Developer : 임채윤, 장소현*
+  - 임채윤 : 메인 홈, 헤더, 배너
+  - 장소현 : 네비게이션바, 로그인 페이지
+
+- *BackEnd Developer : 임채윤, 장소현*
+  - 임채윤 : 
+  - 장소현 :
+
+- *Design advice : 김동환*
+
+> 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)  
+> 장소현 (Sohyeon Jang : GitHub Page => https://github.com/Jang-SoHyeon)  
+
+## 언어 및 데이터베이스
 - 사용 언어 : Next.js (풀스택 개발)
 - 사용 데이터베이스 : Notion API (https://www.notion.so/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b)
+
 
 ## 프로젝트 실행방법
 1. node.js가 설치되어 있는 터미널을 준비한 뒤 프로젝트 파일 내부에 접근한다.
@@ -23,23 +34,6 @@ npx json-server --port 9999 --watch db.json
 ## 시연 영상
 - https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba
 
-
-# 칵테일을 말하다 - Cocktell
-**LINK : https://chaesogong.github.io/Cocktell/page/**  
-## 프로젝트 참여자
-- *FrontEnd Developer : 임채윤, 장소현*
-  - 임채윤 : 메인 홈, 헤더, 배너
-  - 장소현 : 네비게이션바, 로그인 페이지
-
-- *BackEnd Developer : 임채윤, 장소현*
-  - 임채윤 : 
-  - 장소현 :
-
-- *Design advice : 김동환*
-
-> 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)  
-> 장소현 (Sohyeon Jang : GitHub Page => https://github.com/Jang-SoHyeon)  
-
-## 업데이트 내역
+## (다른곳 추가) 업데이트 내역
 - Version 0.0.1 - 2023.07.13 : Create New Homepage
 - Version 0.0.2 - 2023.07.22 : Big Change in UI design
