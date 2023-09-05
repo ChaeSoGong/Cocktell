@@ -35,11 +35,11 @@ export default function Home(props) {
             <div className="mt-32"></div>
             <Banner />
             <div className="mt-52 mb-40 border-b border-gray-300"></div>
-            <RecipePreview recipeData={props.data.recipeData} />
+            <RecipePreview recipeData={props.data?.recipe} />
             <div className="mt-40 mb-40 border-b border-gray-300"></div>
-            <CustomPreview customData={props.data.customData} />
+            <CustomPreview customData={props.data?.custom} />
             <div className="mt-40 mb-40 border-b border-gray-300"></div>
-            <MyBagPreview materialData={props.data.materialData} />
+            <MyBagPreview materialData={props.data?.material} />
             <div className="mt-40 mb-40 border-b border-gray-300"></div>
             <CocktellAI></CocktellAI>
         </>
@@ -101,7 +101,7 @@ function RecipePreview(props) {
         return (
             <SwiperSlide key={recipe.id} className='look_Slide_item'>
                 <Link href={`/recipe/${recipe.id}`}>
-                    <img src={recipe.image} alt={recipe.name} fill='true' lazy_loading="true" sizes='265'></img>
+                    <img src={recipe.image} alt={recipe.name} fill='true' loading="lazy" sizes='260'></img>
                 </Link>
                 <div className='look_Slide_text'>
                     <Link href={`/recipe/${recipe.id}`}><h3>{recipe.name}</h3></Link>
@@ -129,7 +129,7 @@ function RecipePreview(props) {
 function CustomPreview(props) {
     const content = props.customData?.map((item) => (
         <div key={item.id} className='article_custom_item'>
-            <img src={item.image} fill="true" lazy_loading="true" sizes='320' alt={item.name}></img>
+            <img src={item.image} fill="true" loading="lazy" sizes='320' alt={item.name}></img>
         </div>
     ))
     SwiperCore.use([Navigation]);
