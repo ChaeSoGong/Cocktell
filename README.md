@@ -14,3 +14,7 @@
 
 ## json Server 여는 방법
 npx json-server --port 9999 --watch db.json
+
+## 개발 현황
+- https://cocktellchaesogong.netlify.app/
+- https://github.com/ChaeSoGong/cocktell-site
