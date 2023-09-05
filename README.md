@@ -16,5 +16,5 @@
 npx json-server --port 9999 --watch db.json
 
 ## 개발 현황
-- https://cocktellchaesogong.netlify.app/
-- https://github.com/ChaeSoGong/cocktell-site
+- 웹 페이지 : https://cocktellchaesogong.netlify.app/
+- 개발 깃허브 페이지 : https://github.com/ChaeSoGong/cocktell-site
