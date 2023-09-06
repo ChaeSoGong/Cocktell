@@ -1,5 +1,6 @@
 <div align="center">
-# 칵테일을 말하다 - Cocktell  
+  <h1>칵테일을 말하다 - Cocktell</h1>  
+</div>
 
 <!-- 칵텔 시연 영상 (배속, 저화질) -->
 https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
@@ -40,4 +41,3 @@ npx json-server --port 9999 --watch db.json
 ## (다른곳 추가) 업데이트 내역
 - Version 0.0.1 - 2023.07.13 : Create New Homepage
 - Version 0.0.2 - 2023.07.22 : Big Change in UI design
-</div>
