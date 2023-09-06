@@ -1,4 +1,8 @@
-# 칵테일을 말하다 - Cocktell
+# 칵테일을 말하다 - Cocktell  
+
+## 시연 영상
+https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
+
 ## 프로젝트 참여자
 - *FrontEnd Developer : 임채윤, 장소현*
   - 임채윤 : 메인 홈, 헤더, 배너
@@ -31,8 +35,6 @@ npx json-server --port 9999 --watch db.json
 - 웹 페이지 : https://cocktellchaesogong.netlify.app/
 - 개발 깃허브 페이지 : https://github.com/ChaeSoGong/cocktell-site
 
-## 시연 영상
-https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba
 
 ## (다른곳 추가) 업데이트 내역
 - Version 0.0.1 - 2023.07.13 : Create New Homepage
