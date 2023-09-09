@@ -23,10 +23,13 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 > 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)  
 > 장소현 (Sohyeon Jang : GitHub Page => https://github.com/Jang-SoHyeon)  
 
+<br>
+
 ## 언어 및 데이터베이스
 - 사용 언어 : Next.js (풀스택 개발)
 - 사용 데이터베이스 : Notion API (https://www.notion.so/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b)
 
+<br>
 
 ## 프로젝트 실행방법
 1. node.js가 설치되어 있는 터미널을 준비한 뒤 프로젝트 파일 내부에 접근한다.
@@ -34,8 +37,12 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 3. npm run dev (혹은 npm run build -> npm run start) 명령어로 프로젝트를 시작한다.
 4. http://localhost:3000 를 주소창에 입력하여 프로젝트에 칵텔(CockTell)에 접근한다.
 
+<br>
+
 ## json Server 여는 방법
 npx json-server --port 9999 --watch db.json
+
+<br>
 
 ## 개발 현황
 - 웹 페이지 : https://cocktellchaesogong.netlify.app/
