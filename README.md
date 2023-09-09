@@ -7,9 +7,9 @@
 <!-- 칵텔 시연 영상 (배속, 저화질) -->  
 https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
 
-<br>
-<h2>프로젝트 참여자</h2>
+<br>  
 
+## 프로젝트 참여자
 - *FrontEnd Developer : 임채윤, 장소현*
   - 임채윤 : 메인 홈, 헤더, 배너
   - 장소현 : 네비게이션바, 로그인 페이지
