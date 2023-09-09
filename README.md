@@ -10,7 +10,8 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 <br>  
 
 ## 📄프로젝트 설명📄
-- 
+- 2023 명지대학교 창의적 SW 프로그램 경진대회 (SW프로그램 개발 부문) 참여
+- 대회기간 : 2023.06.17 ~ 2023.08.24
 
 <br>  
 
