@@ -9,13 +9,18 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>  
 
+## 📄프로젝트 설명📄
+- 
+
+<br>  
+
 ## 👥프로젝트 참여자👥
 - *FrontEnd Developer : 임채윤, 장소현*
   - 임채윤 : 메인 홈, 헤더, 배너
   - 장소현 : 네비게이션바, 로그인 페이지
 
 - *BackEnd Developer : 임채윤, 장소현*
-  - 임채윤 : 
+  - 임채윤 : API 구축 (DB, 외부 API 활용 : Notion API, openAI API) 
   - 장소현 :
 
 - *Design advice : 김동환*
