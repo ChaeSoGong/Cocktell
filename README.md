@@ -8,7 +8,7 @@
 https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
 
 <br>
-<h2 align="center">프로젝트 참여자</h2>
+<h2>프로젝트 참여자</h2>
 
 - *FrontEnd Developer : 임채윤, 장소현*
   - 임채윤 : 메인 홈, 헤더, 배너
