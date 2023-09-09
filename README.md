@@ -1,7 +1,7 @@
 <h1 align="center">칵테일을 말하다 - Cocktell</h1>  
 
 <!-- 칵텔 시연 영상 (배속, 저화질) -->  
-웹사이트 미리보기
+웹사이트 미리보기  
 https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
 
 <br>
