@@ -9,7 +9,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>  
 
-## 프로젝트 참여자
+## 👥프로젝트 참여자👥
 - *FrontEnd Developer : 임채윤, 장소현*
   - 임채윤 : 메인 홈, 헤더, 배너
   - 장소현 : 네비게이션바, 로그인 페이지
@@ -25,7 +25,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>
 
-## 언어 및 데이터베이스
+## ⚙언어 및 데이터베이스⚙
 - 사용 언어 : Next.js (풀스택 개발)
 - 사용 데이터베이스 : Notion API (https://www.notion.so/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b)
 
