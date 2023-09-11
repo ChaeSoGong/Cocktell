@@ -63,8 +63,3 @@ npx json-server --port 9999 --watch db.json
 ## 개발 현황
 - 웹 페이지 : https://cocktellchaesogong.netlify.app/
 - 개발 깃허브 페이지 : https://github.com/ChaeSoGong/cocktell-site
-
-
-## (다른곳 추가) 업데이트 내역
-- Version 0.0.1 - 2023.07.13 : Create New Homepage
-- Version 0.0.2 - 2023.07.22 : Big Change in UI design
