@@ -66,7 +66,8 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 <br>
 
 ## 라이브러리
-- React Swiper
+- React-swiper
+- React-icons
 - Tailwind CSS
 - Open Ai
 - Next Auth (추후 구현)
