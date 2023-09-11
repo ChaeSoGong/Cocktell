@@ -24,7 +24,8 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
   - 장소현 : 네비게이션바, 로그인 페이지
 - *Design advice : 김동환*
 
-> 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)  
+> 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)
+
 > 장소현 (Sohyeon Jang : GitHub Page => https://github.com/Jang-SoHyeon)  
 
 <br>
