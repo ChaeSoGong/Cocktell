@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell👋&fontSize=90&fontColor=601A36)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell🍸&fontSize=90&fontColor=601A36)
 
 ## 웹사이트 미리보기 (시연 영상)  
 
