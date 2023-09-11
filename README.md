@@ -75,7 +75,8 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 ## 구현 사항
 - FrontEnd
-  - 메인 홈페이지 (배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기) React-swiper 사용하여 구현
+  - 메인 홈페이지 React-swiper 사용하여 구현
+    -  배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기
   - 레시피 목록 페이지 구현
   - 레시피 페이지 더보기 기능 구현
   - 레시피 상세페이지 구현
