@@ -1,6 +1,4 @@
-<h1 align="center">칵테일을 말하다 - Cocktell</h1>  
-
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell👋&fontSize=90&fontColor=FEE716)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell👋&fontSize=90&fontColor=blue)
 
 <br>  
 
