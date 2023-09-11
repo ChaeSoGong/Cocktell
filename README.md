@@ -59,4 +59,4 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 - 웹 페이지 : https://cocktellchaesogong.netlify.app/
 - 개발 깃허브 페이지 : https://github.com/ChaeSoGong/cocktell-site
 
-> 이 프로젝트에 기재된 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
+> 칵텔(CockTell) 프로젝트에 기재된 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
