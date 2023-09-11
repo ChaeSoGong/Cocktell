@@ -9,7 +9,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>  
 
-## 📄프로젝트 설명📄
+## 📄프로젝트 소개📄
 - 참여대회 : 2023 명지대학교 창의적 SW 프로그램 경진대회 (SW프로그램 개발 부문)
 - 대회기간 : 2023.06.17 ~ 2023.08.24
 - 프로젝트 목표 : 코로나19 이후 젊은층들의 홈텐딩(집에서 하는 바텐딩)의 인기가 증가하였는데,
@@ -20,14 +20,9 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 <br>  
 
 ## 👥프로젝트 참여자👥
-- *FrontEnd Developer : 임채윤, 장소현*
-  - 임채윤 : 메인 홈, 헤더, 배너
+- *FullStack Developer : 임채윤, 장소현*
+  - 임채윤 : 메인 홈, 헤더, 배너, API 구축 (외부 데이터 가져오기 , 외부 API 활용 : Notion API, openAI API)
   - 장소현 : 네비게이션바, 로그인 페이지
-
-- *BackEnd Developer : 임채윤, 장소현*
-  - 임채윤 : API 구축 (외부 데이터 가져오기 , 외부 API 활용 : Notion API, openAI API) 
-  - 장소현 :
-
 - *Design advice : 김동환*
 
 > 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)  
@@ -35,9 +30,11 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>
 
-## ⚙언어 및 데이터베이스⚙
-- 사용 언어 : Next.js (풀스택 개발)
-- 사용 데이터베이스 : Notion API (https://www.notion.so/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b)
+## ⚙사용 기술 (언어, 도구 및 데이터베이스)⚙
+- FrontEnd : HTML, CSS, JavaScript, React, Next.js
+- BackEnd : Next.js
+- DataBase : Notion API (https://www.notion.so/CockTell-DataBase-d0118987948a4e8c883822e12d0dd60b)
+- Tool : Figma(디자인 협업 툴), PostMan(API 디자인 툴), Netlify(웹사이트 배포 툴)
 
 <br>
 
