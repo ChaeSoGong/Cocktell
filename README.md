@@ -76,10 +76,10 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 ## 구현 사항
 - FrontEnd
   - 메인 홈페이지 React-swiper 사용하여 구현  
-    ![1](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/3a3b62f1-dfd8-42dc-8ffc-61690c372156)
-    배너  
-    ![2](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/f7fd3a1d-cfcf-473c-94e4-74f5ffd7f265)
+    배너
+    ![1](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/3a3b62f1-dfd8-42dc-8ffc-61690c372156)  
     레시피 미리보기, 커스텀 미리보기, 칵테일 재료 미리보기  
+    ![2](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/f7fd3a1d-cfcf-473c-94e4-74f5ffd7f265)  
     -  배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기
 
   - 레시피 목록 페이지
