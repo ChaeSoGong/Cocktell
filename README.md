@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell🍸&fontSize=90&fontColor=00994B)  
 
 # 칵테일을 말하다 - CockTell  
-## 미리보기 (시연 영상)  
+## 🎬미리보기 (시연 영상)🎬
 
 <!-- 칵텔 시연 영상 (배속, 저화질) -->  
 https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a2-4728-a20a-aef1f84682ba  
