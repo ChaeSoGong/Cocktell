@@ -80,16 +80,29 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     **배너**      
     ![1](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/3a3b62f1-dfd8-42dc-8ffc-61690c372156)  
     **레시피 미리보기, 커스텀 미리보기, 칵테일 재료 미리보기**  
-    ![2](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/f7fd3a1d-cfcf-473c-94e4-74f5ffd7f265)  
+    ![2](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/f7fd3a1d-cfcf-473c-94e4-74f5ffd7f265)
+    
   - 레시피 목록 페이지
-    - 레시피 페이지 더보기 기능 구현
-  - 레시피 상세페이지 구현
-    - 레시피 상세페이지 링크 클립보드로 공유 기능
+
+    **레시피 페이지 더보기 기능**  
+    ![3](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/606821d1-b417-451a-9a0d-514d349324db)  
+    
+  - 레시피 상세페이지
+    
+    **레시피 상세페이지 링크 클립보드로 공유 기능**
+    ![4](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/28d7314b-982c-45ed-b068-4620b3321e18)
+
+
   - 칵테일 알코올 도수 계산기 구현
+    ![5](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/b1929b0c-903b-4937-8e00-79718919ed0b)
+    
   - 자체 회원가입 구현
-    - 회원가입 유효성 검사 기능 구현 (비밀번호 안전도, 닉네임 중복) 
+    **회원가입 유효성 검사 기능 구현 (비밀번호 안전도, 닉네임 중복)**
+    ![6](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1759ebbd-aa71-42de-99fe-9529980adc3e)
+    
 - BackEnd
   - Notion API를 사용한 데이터베이스 구축
+
   - Open Ai API를 사용한 칵테일 AI 추천서비스 구현
 - FullStack
   - 레시피 목록 필터링 기능 구현 (술, 난이도, 도수, 맛)
