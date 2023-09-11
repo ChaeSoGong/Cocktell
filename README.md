@@ -89,7 +89,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     
   - 레시피 상세페이지  
     
-    **레시피 상세페이지 링크 클립보드로 공유 기능**
+    **레시피 상세페이지 링크 클립보드로 공유 기능**  
     ![4](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/28d7314b-982c-45ed-b068-4620b3321e18)
 
 
@@ -97,7 +97,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     ![5](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/b1929b0c-903b-4937-8e00-79718919ed0b)
     
   - 자체 회원가입 구현  
-    **회원가입 유효성 검사 기능 구현 (비밀번호 안전도, 닉네임 중복)**
+    **회원가입 유효성 검사 기능 구현 (비밀번호 안전도, 닉네임 중복)**  
     ![6](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1759ebbd-aa71-42de-99fe-9529980adc3e)
     
 - BackEnd
