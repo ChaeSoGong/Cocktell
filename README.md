@@ -32,7 +32,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 ## ⚙사용 기술 (언어, 도구 및 데이터베이스)⚙
 ### FrontEnd
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>  
 
 ### BackEnd  
@@ -49,10 +49,20 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 ## 구현 목표
 - [x] 메인 홈페이지 (배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기, 칵테일 AI 추천서비스) 구현 
-- [ ] 레시피 목록 페이지 구현
-- [ ] 레시피 목록 필터링 기능 구현
-- [ ] 레시피 페이지 더보기 기능 구현
-- 
+- [x] 레시피 목록 페이지 구현
+- [x] 레시피 목록 필터링 기능 구현 (술, 난이도, 도수, 맛)
+- [x] 레시피 페이지 더보기 기능 구현
+- [x] 레시피 상세페이지 구현
+- [x] 레시피 상세페이지 링크 클립보드로 공유 기능
+- [x] 칵테일 이름, 설명, 맛, 재료 등으로 레시피 검색 기능 구현 
+- [x] 자체 회원가입 기능 구현
+- [ ] 자체 로그인 및 로그아웃 기능 구현
+- [ ] 소셜 로그인 및 로그아웃 기능 구현
+- [ ] 관리자 인터페이스 구현 (유저 관리 및 정보 확인)
+- [ ] 커스텀 칵테일 레시피 작성 기능 구현 (글쓰기)
+- [ ] 레시피 평가 작성 기능 구현 (댓글 쓰기)
+- [ ] 사용자의 평가를 Open ai를 사용하여 선호도 분석 및 리뷰
+- [ ] 레시피 페이지 혹은 댓글에 추천/비추천 기능 구현
 
 <br>
 
