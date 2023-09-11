@@ -47,6 +47,13 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>
 
+## 주요 기능
+- FrontEnd
+  
+- BackEnd
+
+<br>
+
 ## 프로젝트 설치 및 실행방법
 1. Github에서 현재 프로젝트 파일을 다운로드 받는다.
 2. node.js를 16버전 이상으로 설치한다.
