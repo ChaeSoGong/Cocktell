@@ -48,9 +48,19 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 <br>
 
 ## 주요 기능
+✔ 기능별 사진 / 영상
+✔ 코드설명, 후기(짧고 간결하게 써야함, 내용이 길어질 경우 블로그에 작성한뒤 링크로 연결해주는게 좋다)
 - FrontEnd
   
 - BackEnd
+  
+<br>
+
+## 라이브러리
+- React Swiper
+- Tailwind CSS
+- Open Ai
+- Next Auth (추후 구현)
 
 <br>
 
