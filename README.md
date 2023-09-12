@@ -127,8 +127,8 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     ![3](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/7e373ab4-5c03-40b8-b981-4cdfbca0885f)
 
   - **가지고 있는 재료를 체크하여 제작 가능한 레시피를 찾는 '나의 냉장고' 페이지 구현**  
-    
-  
+    ![4](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/5bafd715-16ba-4fa4-84b9-72478db8a190)
+
 <br>
 
 ## 라이브러리
