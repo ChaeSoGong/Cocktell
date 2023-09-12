@@ -132,7 +132,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 <br>
 
 ## API 명세서
-- [CockTell API 명세서 : Notion](https://www.notion.so/b39ed7be860047caa3568d92d6dedf3d?v=2e4963b3d9d5483bbc6de0e4a2343aad&pvs=4)
+- [CockTell API 명세서🧾 : Notion](https://www.notion.so/b39ed7be860047caa3568d92d6dedf3d?v=2e4963b3d9d5483bbc6de0e4a2343aad&pvs=4)
   
 ## 라이브러리
 - React-swiper
