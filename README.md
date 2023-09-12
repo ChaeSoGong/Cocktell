@@ -47,7 +47,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 <br>
 
-## 구현 목표 체크리스
+## 구현 목표 체크리스트
 - [x] 메인 홈페이지 (배너, 레시피 미리보기, 커스텀레시피 미리보기, 칵테일 재료 미리보기) React-swiper 사용하여 구현
 - [x] Open Ai API를 사용한 칵테일 AI 추천서비스 구현
 - [x] 레시피 목록 페이지 구현
