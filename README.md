@@ -109,21 +109,25 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     
 - BackEnd
   - Notion API를 사용한 데이터베이스 구축
-    - 유저 데이터 베이스  
+    - **유저 데이터 베이스**  
       <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1c4ef3b6-7b1f-4c64-9e4a-533190d7a905" width="70%"/>
-    - 칵테일 데이터 베이스  
+    - **칵테일 데이터 베이스**  
       <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d6aa72c7-cb8d-4f8d-b0b2-a802c9ff0fd9" width="40%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/80ce88c9-7c7a-44ba-b6b4-4e5e5c91cfae" width="40%"/>
-    - 재료 데이터 베이스  
+    - **재료 데이터 베이스**  
       <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d3d94caf-7673-4645-aa52-379dd7909ff6" width="30%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a2db80f1-b7a6-4253-95a5-cf1ebf099241" width="30%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/aca6b30a-7c74-4f74-8b5c-17c3ecc15718" width="30%"/>
       
   - Open Ai API를 사용한 칵테일 AI 추천서비스 구현  
     ![1](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/5ceb2848-c14e-49ab-a82f-2bc13fa0a6a2)
 
-
 - FullStack
-  - 레시피 목록 필터링 기능 구현 (술, 난이도, 도수, 맛)
-  - 레시피 검색 기능 구현 (칵테일 이름, 설명, 맛, 재료 등)
-  - 가지고 있는 재료를 체크하여 제작 가능한 레시피를 찾는 '나의 냉장고' 페이지 구현 
+  - **레시피 목록 필터링 기능 구현 (술, 난이도, 도수, 맛)**  
+    ![2](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1f883dc3-b024-434f-853b-5ac23ab1cec7)
+
+  - **레시피 검색 기능 구현 (칵테일 이름, 설명, 맛, 재료 등)**  
+    ![3](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/7e373ab4-5c03-40b8-b981-4cdfbca0885f)
+
+  - **가지고 있는 재료를 체크하여 제작 가능한 레시피를 찾는 '나의 냉장고' 페이지 구현**  
+    
   
 <br>
 
