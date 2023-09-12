@@ -113,6 +113,9 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
       <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d6aa72c7-cb8d-4f8d-b0b2-a802c9ff0fd9" width="40%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/80ce88c9-7c7a-44ba-b6b4-4e5e5c91cfae" width="40%"/>
     - **재료 데이터 베이스**  
       <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d3d94caf-7673-4645-aa52-379dd7909ff6" width="30%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a2db80f1-b7a6-4253-95a5-cf1ebf099241" width="30%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/aca6b30a-7c74-4f74-8b5c-17c3ecc15718" width="30%"/>
+
+  - 데이터베이스 가져오는 API 구현
+    - Notion API 사용하여 유저, 칵테일, 재료 데이터 가져오기 (fetch)
       
   - Open Ai API를 사용한 칵테일 AI 추천서비스 구현  
     ![1](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/5ceb2848-c14e-49ab-a82f-2bc13fa0a6a2)
