@@ -20,8 +20,6 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
 
 ## 👥프로젝트 참여자👥
 - *FullStack Developer : 임채윤, 장소현*
-  - 임채윤 : 메인 홈, 헤더, 배너, API 구축 (외부 데이터 가져오기 , 외부 API 활용 : Notion API, openAI API)
-  - 장소현 : 네비게이션바, 로그인 페이지
 - *Design advice : 김동환*
 
 > 임채윤 (Chaeyun Lim : GitHub Page => https://github.com/ChaeDoll)
