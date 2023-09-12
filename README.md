@@ -109,6 +109,7 @@ https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/a270d09d-91a
     
 - BackEnd
   - Notion API를 사용한 데이터베이스 구축
+    <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1c4ef3b6-7b1f-4c64-9e4a-533190d7a905" width="40%"/> <img src="https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d6aa72c7-cb8d-4f8d-b0b2-a802c9ff0fd9" width="40%"/> 
 ![image](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/1c4ef3b6-7b1f-4c64-9e4a-533190d7a905)
 
 ![image](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/d6aa72c7-cb8d-4f8d-b0b2-a802c9ff0fd9) ![image](https://github.com/ChaeSoGong/TeamProject-Cocktell/assets/108540812/80ce88c9-7c7a-44ba-b6b4-4e5e5c91cfae)
