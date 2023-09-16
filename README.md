@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Cocktell🍸&fontSize=90&fontColor=00994B)  
 
-# 칵테일을 말하다 - CockTell  
+# [칵테일을 말하다 - CockTell](https://cocktellchaesogong.netlify.app/)  
 ## 🎬미리보기 (시연 영상)🎬
 
 <!-- 칵텔 시연 영상 (배속, 저화질) -->  
